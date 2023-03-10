@@ -407,7 +407,8 @@ footer > h2 > span {
 footer > span {
   width: 30%;
   margin: 25px 0;
-  font-size: large;
   text-align: end;
   float: right;
+  word-spacing: 5px;
+  font-size: medium;
 }
