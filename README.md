@@ -18,4 +18,3 @@ You can browse the website using any web browser. It’s built with the latest w
 - HTML5
 - CSS3
 - JavaScript
-- [Add other technologies like Bootstrap or React if you used them]
