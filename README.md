@@ -17,6 +17,3 @@
     git clone https://github.com/your-username/cv-website.git
     ```
 2. افتح الملف `index.html` في المتصفح.
-
-## حقوق النشر
-هذا المشروع مفتوح المصدر ومتوفر تحت رخصة [MIT License](LICENSE).
